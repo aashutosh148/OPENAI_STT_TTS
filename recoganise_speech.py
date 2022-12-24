@@ -10,7 +10,7 @@ import openai
 from gtts import gTTS
 
 
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 
 USERNAME = "aashutosh"
 BOTNAME = "SAM!"
